@@ -8,7 +8,7 @@
             .site{
                 width:800px;
                 height:600px;
-                background-color:white;
+                background-color:purple;
                 display: flex;
                 flex-direction: column;
                 margin: auto;
@@ -85,23 +85,23 @@
                 flex: 1;
             }
             /* Cores baseadas na imagem */
-            .header div:nth-child(1) { background-color: pink; }
-            .header div:nth-child(2) { background-color: blue; }
-            .header div:nth-child(3) { background-color: orange; }
-            .header div:nth-child(4) { background-color: yellow; }
+            .header div:nth-child(1) { background-color:purple; }
+            .header div:nth-child(2) { background-color: lightblue; }
+            .header div:nth-child(3) { background-color: lightcyan; }
+            .header div:nth-child(4) { background-color: lightyellow; }
             .esquerda div:nth-child(1) { background-color: lightblue; }
-            .esquerda div:nth-child(2) { background-color: blue; }
-            .esquerda div:nth-child(3) { background-color: purple; }
-            .direita div:nth-child(1) { background-color: cyan; }
-            .direita div:nth-child(2) { background-color: red; }
-            .topo-centro div:nth-child(1) { background-color: darkred; }
-            .topo-centro div:nth-child(2) { background-color: purple; }
-            .meio-centro-topo div:nth-child(1) { background-color: orange; }
-            .meio-centro-topo div:nth-child(2) { background-color: pink; }
-            .meio-centro-topo div:nth-child(3) { background-color: yellow; }
-            .meio-centro-baixo div:nth-child(1) { background-color: green; }
-            .meio-centro-baixo div:nth-child(2) { background-color: cyan; }
-            .meio-centro-baixo div:nth-child(3) { background-color: purple; }
+            .esquerda div:nth-child(2) { background-color: lightseagreen; }
+            .esquerda div:nth-child(3) { background-color: #E8A8D4; }
+            .direita div:nth-child(1) { background-color: lightpink; }
+            .direita div:nth-child(2) { background-color: #E85A6F; }
+            .topo-centro div:nth-child(1) { background-color: lightgreen; }
+            .topo-centro div:nth-child(2) { background-color: #DE9BEB; }
+            .meio-centro-topo div:nth-child(1) { background-color:#9BBDEB ; }
+            .meio-centro-topo div:nth-child(2) { background-color: #9AD7EB; }
+            .meio-centro-topo div:nth-child(3) { background-color:#EB9B9B ; }
+            .meio-centro-baixo div:nth-child(1) { background-color:#D8EB22 ; }
+            .meio-centro-baixo div:nth-child(2) { background-color:#EBB59B ; }
+            .meio-centro-baixo div:nth-child(3) { background-color:#EB9BCE ; }
         </style>
     </head>
     <body>

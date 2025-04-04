@@ -1,5 +1,4 @@
-
-       <!DOCTYPE html>
+ DOCTY<!PE html>
 <html lang="PT-BR">
     <head>
         <title></title>
@@ -17,4 +16,311 @@
             .um{
                 width:inherit;
                 height:30px;
-                background-color: rgb(20, 180, 201);
+                background-color: rgb(83, 221, 240);
+            }
+            .dois{
+                width:inherit;
+                height:100px;
+                background-color: rgba(246, 2, 59, 0.745);
+            }
+            .tres{
+                width:inherit;
+                height:30px;
+                background-color:rgb(247, 73, 172) ;
+            }
+            .quatro{
+                width:inherit;
+                height:450px;
+                background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6_6BjxqVo4Y2DdpOzwBAsplOI4JH1xda0-iw2TuXNzdhq292lSmhiXuRGfhUZyHbixzw&usqp=CAU");
+            }
+            .cinco{
+                width:inherit;
+                height:30px;
+                background-color:rgb(225, 254, 121) ;
+            }
+            .seis{
+                width:inherit;
+                height:30px;
+                background-color:rgb(237, 148, 38) ;
+            }
+            .sete{
+                width:inherit;
+                height:30px;
+                background-color:rgb(101, 10, 114) ;
+            }
+            .um1{
+                width:20%;
+                height:inherit;
+                background-color:rgb(39, 155, 163) ;
+                display:inline-block;
+                float:left;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .um2{
+                width:5%;
+                height:inherit;
+                background-color:rgb(19, 151, 116) ;
+                display:inline-block;
+                float:right;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .um3{
+                width:5%;
+                height:inherit;
+                background-color:rgb(157, 159, 24) ;
+                display:inline-block;
+                float:right;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .dois1{
+                width:10%;
+                height:inherit;
+                background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4y34dn7Sac_rDy-awXo7gFpqdhlFdtGnnG5Lqk2xaO1pZwzgmXC3X_owe5ukdTvEOgh8&usqp=CAU") ;
+                background-size: 120%;
+                display:inline-block;
+                float:left;
+                border-radius:100% ;
+                margin-left: 40px;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .dois2{
+                width:10%;
+                height:inherit;
+                background-image:url("https://semeupetfalasse.wordpress.com/wp-content/uploads/2021/01/filhote-gatinho.jpg?w=384") ;
+               background-size: 90%;
+                display:inline-block;
+                float:left;
+                border-radius:100% ;
+                margin-left: 40px;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .dois3{
+                width:10%;
+                height:inherit;
+                background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxpg_QeWTCIoGi5pNOSKC4ZzfATsyVrlq1og&s") ;
+                background-size: 80%;
+                display:inline-block;
+                float:left;
+                border-radius:100% ;
+                margin-left: 40px;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .dois4{
+                width:10%;
+                height:inherit;
+                background-image:url("https://p2.trrsf.com/image/fget/cf/1200/1600/middle/images.terra.com/2024/11/20/973671541-gatinho-novo-em-casa.jpg") ;
+                background-size: 90%;
+                display:inline-block;
+                float:left;
+                border-radius:100% ;
+                margin-left: 40px;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+               
+            }
+            .dois5{
+                width:10%;
+                height:inherit;
+                background-image:url("https://wp.revistapulodogato.com.br/wp-content/uploads/2024/06/Gatinho_Novo_Pulo_do_Gato_Abre.jpg") ;
+                background-size: 90%;
+                display:inline-block;
+                float:left;
+                border-radius:100% ;
+                margin-left: 40px;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .tres1{
+                width:30px;
+                height:inherit;
+                background-image: url("https://blog.casadoprodutor.com.br/wp-content/uploads/2018/04/gatinho.jpg") ;
+                background-size: 90%;
+                display:inline-block;
+                float:left;
+                border-radius: 100%;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .tres2{
+                width:20%;
+                height:inherit;
+                background-color:rgb(204, 112, 103) ;
+                display:inline-block;
+                float:left;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .tres3{
+                width:2%;
+                height:inherit;
+                background-color:rgb(93, 193, 230) ;
+                display:inline-block;
+                float:right;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .cinco1{
+                width:5%;
+                height:inherit;
+                background-color:rgba(221, 45, 209, 0.338) ;
+                display:inline-block;
+                float:left;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .cinco2{
+                width:5%;
+                height:inherit;
+                background-color:rgba(52, 95, 188, 0.849) ;
+                display:inline-block;
+                float:left;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .cinco3{
+                width:5%;
+                height:inherit;
+                background-color:rgb(16, 108, 221) ;
+                display:inline-block;
+                float:left;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .cinco4{
+                width:5%;
+                height:inherit;
+                background-color:rgb(74, 213, 146) ;
+                display:inline-block;
+                float:right;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .sete1{
+                width:20%;
+                height:inherit;
+                background-color:rgb(96, 24, 159) ;
+                display:inline-block;
+                float:left;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .sete2{
+                width:20%;
+                height:inherit;
+                background-color:rgb(56, 207, 217) ;
+                display:inline-block;
+                float:left;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .sete3{
+                width:20%;
+                height:inherit;
+                background-color:rgba(164, 243, 143, 0.495) ;
+                display:inline-block;
+                float:left;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .sete4{
+                width:20%;
+                height:inherit;
+                background-color:rgb(228, 97, 165) ;
+                display:inline-block;
+                float:left;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+            .sete5{
+                width:20%;
+                height:inherit;
+                background-color:rgb(227, 51, 92) ;
+                display:inline-block;
+                float:left;
+                color:white ;
+                font-size:13px ;
+                font-family:arial ;
+                font-weight:bold ;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="site">
+            <div class="um">
+                <div class="um1">INSTAGRAM</div>
+                <div class="um2"></div>
+                <div class="um3">&#9829;</div>
+            </div>
+            <div class="dois">
+                <div class="dois1"></div>
+                <div class="dois2"></div>
+                <div class="dois3"></div>
+                <div class="dois4"></div>
+                <div class="dois5"></div>
+            </div>
+            <div class="tres">
+                <div class="tres1"></div>
+                <div class="tres2"></div>
+                <div class="tres3"></div>
+            </div>
+            <div class="quatro"></div>
+            <div class="cinco">
+                <div class="cinco1"></div>
+                <div class="cinco2"></div>
+                <div class="cinco3"></div>
+                <div class="cinco4"></div>
+            </div>
+            <div class="seis"></div>
+            <div class="sete">
+                <div class="sete1"></div>
+                <div class="sete2"></div>
+                <div class="sete3"></div>
+                <div class="sete4"></div>
+                <div class="sete5"></div>
+            </div>
+        </div>
+    </body>
